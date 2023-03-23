@@ -24,7 +24,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/easyawslearn/Terraform-Tutorial.git"
+                            git "https://github.com/gdhamnekar1/terr-Jenkin-aws-ec2.git"
                         }
                     }
                 }
